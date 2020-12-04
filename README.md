@@ -8,7 +8,6 @@
 <a href="https://www.twitter.com/enikebraimoh">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 <a href="https://www.instagram.com/enikebraimoh">
-<img src="https://img.shields.io/badge/-Twitch-%239146FF" alt="Twitch" /></a> 
 </p>
 
 <!--
