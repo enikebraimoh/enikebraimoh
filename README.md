@@ -1,4 +1,4 @@
-#### Hi there Am Enike Braimoh 👋😃
+# Hi there Am Enike Braimoh 👋
 
 <p align="left">
 <a href="https://www.linkedin.com/in/enikebraimoh/">
@@ -8,9 +8,10 @@
 <a href="https://www.twitter.com/enikebraimoh">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 <a href="https://www.instagram.com/enikebraimoh">
+<img src="https://img.shields.io/badge/-Instagram-%23ff5798" alt="Twitter" /></a>
 </p>
   
-  * 😁 Nice to meet you!
+  * 😁 Nice to meet you!*
 
 <!--
 **enikebraimoh/enikebraimoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
