@@ -1,6 +1,6 @@
-## Hi there Am Enike Braimoh 👋😃
+#### Hi there Am Enike Braimoh 👋😃
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/enikebraimoh/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://www.dribbble.com/enikebraimoh">
@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/enikebraimoh">
 </p>
   
-  * 🔭 I’m currently working on ...
+  * 😁 Nice to meet you!
 
 <!--
 **enikebraimoh/enikebraimoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
