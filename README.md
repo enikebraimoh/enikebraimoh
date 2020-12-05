@@ -15,7 +15,7 @@
   
   * 😁 Nice to meet you!  
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enikebraimoh&show_icons=true&theme=dracula&icon_color=#7FFF00&title_color=ffffff)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enikebraimoh&show_icons=true&title_color=ffffff&theme=dracula&icon_color=#7FFF00)
   
 
 <!--
