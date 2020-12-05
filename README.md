@@ -16,6 +16,8 @@
   * 😁 Nice to meet you!
   
   ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=enikebraimoh&count_private=true&theme=dracula)
+  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enikebraimoh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
