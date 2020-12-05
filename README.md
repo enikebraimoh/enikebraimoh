@@ -13,7 +13,7 @@
 
 ### Am An Android Developer & UI/UX designer
   
-  * 😁 Nice to meet you!*
+  * 😁 Nice to meet you!
 
 <!--
 **enikebraimoh/enikebraimoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
