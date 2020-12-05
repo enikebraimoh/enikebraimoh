@@ -13,9 +13,9 @@
 
 ### Am An Android Developer & UI/UX designer
   
-  * 😁 Nice to meet you!
+  * 😁 Nice to meet you!  
   
-  ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=enikebraimoh&count_private=true&theme=dracula&bg_color=#FF3700B3,#FF018786)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enikebraimoh&show_icons=true&theme=dracula)
   
 
 <!--
