@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-Instagram-%23ff5798" alt="Twitter" /></a>
 </p>
 
-### I Am An Android Developer & Golang dev
+### I am an Android Developer & Golang a dev
   
   * 😁 Nice to meet you!  
   
