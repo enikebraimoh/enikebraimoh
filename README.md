@@ -17,6 +17,20 @@
   
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enikebraimoh&show_icons=true&title_color=ffffff&theme=dracula&icon_color=#7FFF00)
   
+  <h3>Technologies</h3>
+<p>
+<img height=50 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"/>
+ 
+<img height=50 src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
+ 
+<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+ 
+ <img height=50 src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/>
+ 
+  <img height=50 src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"/>
+ 
+</p>
+  
 
 <!--
 **enikebraimoh/enikebraimoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
