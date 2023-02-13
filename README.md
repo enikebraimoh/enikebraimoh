@@ -1,48 +1,22 @@
-# Hi! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi"> I'm Enike Braimoh 
+![profile](http://blogs.quovantis.com/wp-content/uploads/2020/01/kotlin.gif)
 
-<p align="left">
-<a href="https://www.linkedin.com/in/enikebraimoh/">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
-<a href="https://www.dribbble.com/enikebraimoh">
-<img src="https://img.shields.io/badge/-Dribbble-%23ff5798" alt="Dribbble"/></a> 
-<a href="https://www.twitter.com/enikebraimoh">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
-<a href="https://www.instagram.com/enikebraimoh">
-<img src="https://img.shields.io/badge/-Instagram-%23ff5798" alt="Twitter" /></a>
-</p>
+<h1 align="center">Hi there 👋, I'm Enike</h1>
 
-### I am a Native Android Developer
-  
-  * 😁 Nice to meet you!  
-  
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enikebraimoh&show_icons=true&title_color=ffffff&theme=dracula&icon_color=#7FFF00)
-  
-  <h3>Technologies</h3>
+<p align="center"><b> I'm a Mobile apps developer who loves to learn and solve complex problems in a simple way following best practices, very pasionate about Jetpack Compose 💚 and Flutter 💙 for building Mobile solutions. 
+I have played around Kotlin, Java and Dart but i'm in ♥ with Kotlin (Able to work and complete projects with any of the above) </b></p>
+
+- 🔭 I’m looking to collaborate on Android, Kotlin and Flutter Projects. 
+- 📚 would soon start writing tech articles 
+- 🎮 I read Books or Call of Duty Mobile my leisure time . 
+
+#### Technologies and Tools
+
 <p>
-<img height=50 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"/>
- 
-<img height=50 src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
- 
-<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
- 
- <img height=50 src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/>
- 
-  <img height=50 src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"/>
- 
+<img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img src ="https://img.shields.io/badge/android-%2307405e.svg?&style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+<img src ="https://img.shields.io/badge/flutter-%2307405e.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
-  
-
-<!--
-**enikebraimoh/enikebraimoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-* 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
--->
